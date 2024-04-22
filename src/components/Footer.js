@@ -12,12 +12,12 @@ const Footer = () => {
             {/* 1st block */}
             <div className="col-span-12 lg:col-span-4">
               <div className="box-border border-b-4 border-blue-900 p-8 bg-gray-200 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
-                <h3 className="font-bold text-4xl mb-4">MLD</h3>
+                <h3 className="font-bold text-4xl mb-4">IT Services</h3>
                 <div className="text-md font-medium text-gray-600">
-                  <h5>Molad e Konsult</h5>
-                  <p>Ilo Awela,</p>
-                  <p>Ota,</p>
-                  <p>Ogun State.</p>
+                  <h5>Andrij Csuhran</h5>
+                  <p>Antonio Banderas</p>
+                  <p>Stewen Hawkins</p>
+                  <p>Shrek</p>
                 </div>
               </div>
             </div>
@@ -96,7 +96,7 @@ const Footer = () => {
 
             {/* 4th block */}
             <div className="col-span-12 text-center mx-auto lg:col-span-3 font-bold uppercase text-blue-900">
-              <div className="text-xl mb-6">Social Media Links.</div>
+              <div className="text-xl mb-6">Social Media Links</div>
 
               <div className="text-md font-medium mb-6">
                 Follow us on social media.
@@ -144,9 +144,9 @@ const Footer = () => {
                 Copyright &copy; {new Date().getFullYear()}
                 {"  "}
                 <HashLink to="#" className=" hover:text-gray-900">
-                  Molad e Konsult
+                  AC IT services.
                 </HashLink>
-                . All rights reserved.
+                All rights reserved.
               </div>
             </div>
           </div>
